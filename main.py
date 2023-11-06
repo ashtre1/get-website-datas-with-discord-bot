@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.options import Options as ChromeOptions
 from bs4 import BeautifulSoup
 
 
-token = "NzU0MzkyNDc5MzE4NTQwMzg5.GGB1xk.-9D23owRfbD_KS1koDeTozL0h68cydWHaAgn1U"
+token = "x"
 
 def getdata(link):
     options = ChromeOptions()
